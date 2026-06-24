@@ -1,6 +1,6 @@
 7# AeroCement Ecosystem: Civilization 2.0
 
-### A Doctoral Thesis on Passive Solar-Thermal Infrastructure for Open-Source Human Survival
+### A project on Passive Solar-Thermal Infrastructure for Open-Source Human Survival
 
 **Author:** Jesse McMillen | **Date:** June 2026  
 **License:** CC-BY-SA 4.0 (Hardware) | GPL v3 (Software)  
