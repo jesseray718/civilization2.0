@@ -101,7 +101,7 @@ Tokens are mined by **verified, measurable physical work** — not wasted electr
 
 | Document | Description |
 |----------|-------------|
-| [v3Doctoral_thesis.txt](v3Doctoral_thesis.txt) | Complete doctoral thesis with full thermodynamic analysis |
+| [v3Doctoral_thesis.txt](v3Doctoral_thesis.txt) | Complete  thesis with full thermodynamic analysis |
 | [WHITE_PAPER.md](WHITE_PAPER.md) | High-level summary white paper |
 | [LICENSE.txt](LICENSE.txt) | CC-BY-SA 4.0 (Hardware) / GPL v3 (Software) |
 
